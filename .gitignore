@@ -1,0 +1,17 @@
+# SSRF log outputs and report files
+ssrf_logs/
+*.log
+slow_endpoints_*.md
+ssrf_test_results_*.md
+ssrf_test_results.txt
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*~
